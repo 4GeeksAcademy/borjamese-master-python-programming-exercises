@@ -1,7 +1,6 @@
 #Complete the function to return the number of day of the week for k'th day of year. 
 def day_of_week(k):
-  for k in range (365):
-    
+  
   return None
 
 
